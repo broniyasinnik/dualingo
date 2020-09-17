@@ -1,0 +1,18 @@
+prompt_bde43302e530441c0afdea532cbbd419:
+  sentence: i think about her night
+  targets:
+  - éjjel nappal rá gondolok.|0.8
+  - rá gondolok éjjel nappal.|0.25
+  - rá gondolok éjjel és nappal.|0.05
+  predictions:
+  - bla bla bla|1
+  - all i want|1
+prompt_1b578a1e8fca427f4912b95acc612a1d:
+  sentence: he cooks the food.
+  targets:
+  - megfőzi az ételt.|0.9
+  - főzi az ételt.|0.09
+  - ő főzi az ételt.|0.01
+  predictions:
+  - foze ala ala|1
+  - dracula adfa|1
